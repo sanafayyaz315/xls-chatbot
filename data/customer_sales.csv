@@ -1,0 +1,101 @@
+sale_id,sale_date,customer_id,customer_name,email,signup_date,product_id,product_name,category,amount_paid
+1001,2024-12-24,5,Leslie Larson,rlynn@example.net,2025-06-28,103,iPad Mini,Audio,592.8
+1002,2025-01-17,25,Jennifer Adams,mluna@example.net,2025-04-24,105,AirPods Pro,Audio,558.52
+1003,2025-04-08,36,Andrew Green,tdelacruz@example.org,2023-08-26,105,AirPods Pro,Audio,558.52
+1004,2025-05-22,6,Maureen Banks,isaiah88@example.org,2025-06-22,106,Samsung Galaxy S23,Tablet,1804.51
+1005,2025-05-23,3,Mike Stewart,stevenwhite@example.com,2024-09-02,105,AirPods Pro,Audio,558.52
+1006,2024-07-25,38,Jeff Woods,amiller@example.com,2023-12-19,102,MacBook Air,Laptop,599.02
+1007,2024-12-06,14,Roger Cummings,martinlaura@example.net,2024-03-05,104,Apple Watch,Audio,812.51
+1008,2024-08-25,20,Jennifer Miller,dalejohnson@example.org,2024-08-27,106,Samsung Galaxy S23,Tablet,1804.51
+1009,2024-09-30,28,Anthony Jones,melissa57@example.org,2023-11-28,105,AirPods Pro,Audio,558.52
+1010,2024-09-12,43,Janice Ball,kevin47@example.com,2024-11-20,101,iPhone 14 Pro,Wearable,674.68
+1011,2025-07-11,43,Janice Ball,kevin47@example.com,2024-11-20,104,Apple Watch,Audio,812.51
+1012,2025-04-24,27,David Johnson,hbrown@example.com,2024-03-26,101,iPhone 14 Pro,Wearable,674.68
+1013,2025-06-19,25,Jennifer Adams,mluna@example.net,2025-04-24,101,iPhone 14 Pro,Wearable,674.68
+1014,2024-09-20,42,Elizabeth Camacho,johnsonglen@example.com,2025-07-19,102,MacBook Air,Laptop,599.02
+1015,2025-02-20,11,Keith Wood,vbailey@example.net,2024-11-01,103,iPad Mini,Audio,592.8
+1016,2024-10-25,34,Pam Frost,jessica88@example.com,2024-04-18,101,iPhone 14 Pro,Wearable,674.68
+1017,2024-12-16,23,Hayley Dixon,eric79@example.com,2023-12-07,101,iPhone 14 Pro,Wearable,674.68
+1018,2024-10-21,41,Victoria Garcia,solisscott@example.org,2024-02-03,105,AirPods Pro,Audio,558.52
+1019,2024-09-13,34,Pam Frost,jessica88@example.com,2024-04-18,104,Apple Watch,Audio,812.51
+1020,2024-12-30,19,Jacob Salazar,fberry@example.com,2025-03-15,110,Sony WH-1000XM5,Audio,875.28
+1021,2025-01-16,36,Andrew Green,tdelacruz@example.org,2023-08-26,110,Sony WH-1000XM5,Audio,875.28
+1022,2025-06-14,11,Keith Wood,vbailey@example.net,2024-11-01,106,Samsung Galaxy S23,Tablet,1804.51
+1023,2025-06-08,6,Maureen Banks,isaiah88@example.org,2025-06-22,109,Google Pixel 7,Wearable,678.75
+1024,2024-07-26,8,Robert Richards,kwillis@example.net,2023-10-09,108,Lenovo ThinkPad,Tablet,1049.98
+1025,2025-02-21,39,Danielle Richardson DDS,kevingutierrez@example.net,2024-09-29,103,iPad Mini,Audio,592.8
+1026,2025-02-21,44,Harry Bauer,bbrown@example.org,2024-03-15,108,Lenovo ThinkPad,Tablet,1049.98
+1027,2025-06-16,34,Pam Frost,jessica88@example.com,2024-04-18,109,Google Pixel 7,Wearable,678.75
+1028,2024-08-31,25,Jennifer Adams,mluna@example.net,2025-04-24,109,Google Pixel 7,Wearable,678.75
+1029,2024-09-08,13,Steve Green,bernardkevin@example.org,2024-11-13,108,Lenovo ThinkPad,Tablet,1049.98
+1030,2024-08-13,31,Stephanie Price,gmitchell@example.net,2024-03-11,105,AirPods Pro,Audio,558.52
+1031,2025-03-31,18,Julie Garcia,perkinskimberly@example.net,2024-08-27,109,Google Pixel 7,Wearable,678.75
+1032,2025-05-17,40,Dana Goodwin,qfry@example.net,2024-08-18,107,Dell XPS 13,Tablet,963.99
+1033,2025-04-09,25,Jennifer Adams,mluna@example.net,2025-04-24,108,Lenovo ThinkPad,Tablet,1049.98
+1034,2024-08-24,46,Richard Hall,kevinbrown@example.net,2024-07-13,106,Samsung Galaxy S23,Tablet,1804.51
+1035,2025-05-28,24,Michelle Waters,jeffreyperez@example.com,2024-09-08,106,Samsung Galaxy S23,Tablet,1804.51
+1036,2024-10-16,49,Sarah Rice,davissarah@example.org,2024-09-27,109,Google Pixel 7,Wearable,678.75
+1037,2025-05-13,23,Hayley Dixon,eric79@example.com,2023-12-07,108,Lenovo ThinkPad,Tablet,1049.98
+1038,2024-10-18,49,Sarah Rice,davissarah@example.org,2024-09-27,110,Sony WH-1000XM5,Audio,875.28
+1039,2024-11-04,8,Robert Richards,kwillis@example.net,2023-10-09,101,iPhone 14 Pro,Wearable,674.68
+1040,2024-09-27,48,Margaret Henry,dsmall@example.org,2024-09-13,102,MacBook Air,Laptop,599.02
+1041,2025-01-14,40,Dana Goodwin,qfry@example.net,2024-08-18,102,MacBook Air,Laptop,599.02
+1042,2025-04-17,17,Mrs. Jenna Wright,nyoung@example.net,2024-02-16,107,Dell XPS 13,Tablet,963.99
+1043,2024-09-28,21,Jessica Castro,amanda53@example.com,2025-07-04,106,Samsung Galaxy S23,Tablet,1804.51
+1044,2025-04-14,23,Hayley Dixon,eric79@example.com,2023-12-07,102,MacBook Air,Laptop,599.02
+1045,2024-08-30,20,Jennifer Miller,dalejohnson@example.org,2024-08-27,109,Google Pixel 7,Wearable,678.75
+1046,2025-03-30,36,Andrew Green,tdelacruz@example.org,2023-08-26,109,Google Pixel 7,Wearable,678.75
+1047,2025-01-29,25,Jennifer Adams,mluna@example.net,2025-04-24,103,iPad Mini,Audio,592.8
+1048,2024-08-29,25,Jennifer Adams,mluna@example.net,2025-04-24,101,iPhone 14 Pro,Wearable,674.68
+1049,2025-07-19,12,Kristen Taylor,crossseth@example.net,2025-02-26,110,Sony WH-1000XM5,Audio,875.28
+1050,2025-02-05,47,Jonathan Archer,garciadestiny@example.org,2024-07-01,102,MacBook Air,Laptop,599.02
+1051,2025-05-07,20,Jennifer Miller,dalejohnson@example.org,2024-08-27,107,Dell XPS 13,Tablet,963.99
+1052,2025-04-09,4,Kathleen Marshall,jensenann@example.com,2025-05-03,105,AirPods Pro,Audio,558.52
+1053,2024-11-15,25,Jennifer Adams,mluna@example.net,2025-04-24,102,MacBook Air,Laptop,599.02
+1054,2024-12-27,30,Sherry Cohen,sampsonleah@example.com,2023-11-29,101,iPhone 14 Pro,Wearable,674.68
+1055,2025-07-05,28,Anthony Jones,melissa57@example.org,2023-11-28,105,AirPods Pro,Audio,558.52
+1056,2024-12-26,19,Jacob Salazar,fberry@example.com,2025-03-15,103,iPad Mini,Audio,592.8
+1057,2025-03-01,18,Julie Garcia,perkinskimberly@example.net,2024-08-27,105,AirPods Pro,Audio,558.52
+1058,2025-03-12,36,Andrew Green,tdelacruz@example.org,2023-08-26,108,Lenovo ThinkPad,Tablet,1049.98
+1059,2025-06-16,44,Harry Bauer,bbrown@example.org,2024-03-15,106,Samsung Galaxy S23,Tablet,1804.51
+1060,2025-03-17,24,Michelle Waters,jeffreyperez@example.com,2024-09-08,110,Sony WH-1000XM5,Audio,875.28
+1061,2025-06-25,5,Leslie Larson,rlynn@example.net,2025-06-28,105,AirPods Pro,Audio,558.52
+1062,2024-08-17,20,Jennifer Miller,dalejohnson@example.org,2024-08-27,104,Apple Watch,Audio,812.51
+1063,2024-12-25,46,Richard Hall,kevinbrown@example.net,2024-07-13,105,AirPods Pro,Audio,558.52
+1064,2025-02-19,23,Hayley Dixon,eric79@example.com,2023-12-07,107,Dell XPS 13,Tablet,963.99
+1065,2025-01-18,27,David Johnson,hbrown@example.com,2024-03-26,110,Sony WH-1000XM5,Audio,875.28
+1066,2024-08-26,50,Jennifer Frye,iblake@example.net,2024-05-10,107,Dell XPS 13,Tablet,963.99
+1067,2024-09-13,33,Jennifer Hanson,seanhoward@example.net,2024-03-19,110,Sony WH-1000XM5,Audio,875.28
+1068,2025-04-02,49,Sarah Rice,davissarah@example.org,2024-09-27,101,iPhone 14 Pro,Wearable,674.68
+1069,2024-08-24,9,Mark Lawrence,fburke@example.net,2024-02-27,107,Dell XPS 13,Tablet,963.99
+1070,2024-10-18,17,Mrs. Jenna Wright,nyoung@example.net,2024-02-16,108,Lenovo ThinkPad,Tablet,1049.98
+1071,2024-09-25,44,Harry Bauer,bbrown@example.org,2024-03-15,101,iPhone 14 Pro,Wearable,674.68
+1072,2024-07-28,40,Dana Goodwin,qfry@example.net,2024-08-18,101,iPhone 14 Pro,Wearable,674.68
+1073,2025-03-28,36,Andrew Green,tdelacruz@example.org,2023-08-26,109,Google Pixel 7,Wearable,678.75
+1074,2024-08-15,12,Kristen Taylor,crossseth@example.net,2025-02-26,104,Apple Watch,Audio,812.51
+1075,2024-08-23,36,Andrew Green,tdelacruz@example.org,2023-08-26,105,AirPods Pro,Audio,558.52
+1076,2025-05-16,31,Stephanie Price,gmitchell@example.net,2024-03-11,106,Samsung Galaxy S23,Tablet,1804.51
+1077,2025-04-08,34,Pam Frost,jessica88@example.com,2024-04-18,108,Lenovo ThinkPad,Tablet,1049.98
+1078,2024-09-16,3,Mike Stewart,stevenwhite@example.com,2024-09-02,105,AirPods Pro,Audio,558.52
+1079,2024-11-16,16,Joseph Baker,washingtonvincent@example.org,2024-06-09,110,Sony WH-1000XM5,Audio,875.28
+1080,2024-07-23,42,Elizabeth Camacho,johnsonglen@example.com,2025-07-19,108,Lenovo ThinkPad,Tablet,1049.98
+1081,2025-02-07,15,Daniel Garrett,myersjesse@example.net,2024-03-08,103,iPad Mini,Audio,592.8
+1082,2024-08-24,7,Sabrina Strickland,churchrichard@example.com,2024-03-20,109,Google Pixel 7,Wearable,678.75
+1083,2025-04-12,25,Jennifer Adams,mluna@example.net,2025-04-24,105,AirPods Pro,Audio,558.52
+1084,2025-05-25,3,Mike Stewart,stevenwhite@example.com,2024-09-02,110,Sony WH-1000XM5,Audio,875.28
+1085,2025-03-25,19,Jacob Salazar,fberry@example.com,2025-03-15,103,iPad Mini,Audio,592.8
+1086,2025-01-19,34,Pam Frost,jessica88@example.com,2024-04-18,110,Sony WH-1000XM5,Audio,875.28
+1087,2025-04-01,5,Leslie Larson,rlynn@example.net,2025-06-28,104,Apple Watch,Audio,812.51
+1088,2025-06-09,22,Walter Wade,tbennett@example.net,2024-01-06,108,Lenovo ThinkPad,Tablet,1049.98
+1089,2024-07-23,23,Hayley Dixon,eric79@example.com,2023-12-07,102,MacBook Air,Laptop,599.02
+1090,2025-05-26,46,Richard Hall,kevinbrown@example.net,2024-07-13,101,iPhone 14 Pro,Wearable,674.68
+1091,2024-10-09,5,Leslie Larson,rlynn@example.net,2025-06-28,105,AirPods Pro,Audio,558.52
+1092,2024-11-06,7,Sabrina Strickland,churchrichard@example.com,2024-03-20,105,AirPods Pro,Audio,558.52
+1093,2025-07-10,38,Jeff Woods,amiller@example.com,2023-12-19,106,Samsung Galaxy S23,Tablet,1804.51
+1094,2025-05-16,27,David Johnson,hbrown@example.com,2024-03-26,108,Lenovo ThinkPad,Tablet,1049.98
+1095,2024-11-27,10,Michael Garcia,brownmary@example.com,2025-05-15,108,Lenovo ThinkPad,Tablet,1049.98
+1096,2025-03-23,39,Danielle Richardson DDS,kevingutierrez@example.net,2024-09-29,106,Samsung Galaxy S23,Tablet,1804.51
+1097,2024-11-11,8,Robert Richards,kwillis@example.net,2023-10-09,101,iPhone 14 Pro,Wearable,674.68
+1098,2025-01-14,37,Jonathan Freeman,marissa93@example.com,2025-05-29,105,AirPods Pro,Audio,558.52
+1099,2024-11-04,9,Mark Lawrence,fburke@example.net,2024-02-27,109,Google Pixel 7,Wearable,678.75
+1100,2025-01-21,28,Anthony Jones,melissa57@example.org,2023-11-28,109,Google Pixel 7,Wearable,678.75
