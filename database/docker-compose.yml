@@ -1,0 +1,16 @@
+services:
+  chainlit_db:
+      image: postgres:latest
+      container_name: chainlit_db_pandas
+      environment:
+        POSTGRES_DB: chainlit
+        POSTGRES_USER: chainlit
+        POSTGRES_PASSWORD: password
+      volumes:
+        - chainlit_data:/var/lib/postgresql/data
+      ports:
+        - 25434:5432
+      restart: always
+
+volumes:
+  chainlit_data:
