@@ -75,4 +75,5 @@ A script to create dummy sales data can be found in the [data.py](src/data.py) f
 ### Author
 Built with ❤️ Sana Fayyaz
 
-[![Watch Demo](docs/sample.gif)](docs/sample.mp4)
+### Watch Demo
+![Demo GIF](docs/sample.gif)
