@@ -77,3 +77,4 @@ Built with ❤️ Sana Fayyaz
 
 ### Watch Demo
 [![Watch Demo](docs/sample.gif)](docs/sample.mp4)
+[demo](docs/sample.gif)
